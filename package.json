@@ -1,0 +1,14 @@
+{
+  "name": "lab7-advanced-p2",
+  "version": "1.0.0",
+  "description": "Lab 7 - advanced problem 2. Create forutne telling app in chapter 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yp0975eu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
